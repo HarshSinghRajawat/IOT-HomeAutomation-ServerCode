@@ -1,0 +1,85 @@
+python cmds executed
+1 is now on
+python cmds executed
+2 is now off
+python cmds executed
+3 is now on
+python cmds executed
+4 is now on
+python cmds executed
+5 is now off
+python cmds executed
+6 is now off
+python cmds executed
+7 is now off
+python cmds executed
+8 is now on
+python cmds executed
+1 is now on
+python cmds executed
+2 is now off
+python cmds executed
+3 is now on
+python cmds executed
+4 is now on
+python cmds executed
+5 is now off
+python cmds executed
+6 is now off
+python cmds executed
+7 is now off
+python cmds executed
+8 is now on
+sent
+Request Rejected
+python cmds executed
+1 is now off
+{ Relay: '1', status: 'off' }
+python cmds executed
+2 is now on
+{ Relay: '2', status: 'on' }
+python cmds executed
+2 is now off
+{ Relay: '2', status: 'off' }
+Request Rejected
+python cmds executed
+3 is now off
+{ Relay: '3', status: 'off' }
+python cmds executed
+4 is now off
+{ Relay: '4', status: 'off' }
+python cmds executed
+4 is now on
+{ Relay: '4', status: 'on' }
+python cmds executed
+6 is now on
+{ Relay: '6', status: 'on' }
+python cmds executed
+6 is now off
+{ Relay: '6', status: 'off' }
+python cmds executed
+5 is now on
+{ Relay: '5', status: 'on' }
+python cmds executed
+5 is now off
+{ Relay: '5', status: 'off' }
+python cmds executed
+1 is now off
+python cmds executed
+2 is now off
+python cmds executed
+3 is now off
+python cmds executed
+4 is now on
+python cmds executed
+5 is now off
+python cmds executed
+6 is now off
+python cmds executed
+7 is now off
+python cmds executed
+8 is now on
+sent
+python cmds executed
+1 is now on
+{ Relay: '1', status: 'on' }

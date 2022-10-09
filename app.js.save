@@ -1,0 +1,39 @@
+const express =require('express');
+const app=express();
+const path=require('path');
+const bodyParser = require('body-parser');
+const spawn= require('child_process').spawn;
+
+app.use(bodyParser.urlencoded({extended: false}));
+app.use(express.static(path.join(__dirname, 'html')));
+
+app.get('/',(req,res,next)=>{
+    res.sendFile(path.join(__dirname,'./','html','HomePage.html'))
+console.log(path.join('sent'));
+});
+
+app.use(bodyParser.json());
+app.post('/relay',(req,res,next)=>{
+//const process=spawn('python',['./relay.py']);
+//process.stdout.on('data',data=>{
+//console.log(data.toString());
+//});
+var relay=req.body.Relay;
+    var set=req.body.status;
+
+    if(relay=='Relay 1'){
+        if(set=='on'){
+          spawn('python',['set/OnRelay1.py']);
+        }
+        else if(set=='off'){
+          spawn('python',['set/OffRelay1.py']);
+        }
+    }
+
+    console.log(req.body);
+    res.end();
+});
+
+
+
+app.listen(8080);

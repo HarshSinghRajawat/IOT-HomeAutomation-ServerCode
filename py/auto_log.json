@@ -1,0 +1,44 @@
+{
+    "relays": [
+        {
+            "do": "on",
+            "time": "23:40",
+            "status": ""
+        },
+        {
+            "do": "on",
+            "time": "test",
+            "status": "Done"
+        },
+        {
+            "do": "off",
+            "time": "",
+            "status": ""
+        },
+        {
+            "do": "on",
+            "time": "",
+            "status": ""
+        },
+        {
+            "do": "on",
+            "time": "",
+            "status": ""
+        },
+        {
+            "do": "on",
+            "time": "",
+            "status": ""
+        },
+        {
+            "do": "on",
+            "time": "",
+            "status": ""
+        },
+        {
+            "do": "on",
+            "time": "",
+            "status": ""
+        }
+    ]
+}

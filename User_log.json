@@ -1,0 +1,4817 @@
+[
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "manual",
+            "curTime": "17:14:35"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "manual",
+            "curTime": "17:22:20"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "manual",
+            "curTime": "17:22:29"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "manual",
+            "curTime": "17:28:47"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "manual",
+            "curTime": "17:40:9"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:52"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:53"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:54"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:55"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:56"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "8",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:58"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:42:59"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:43:0"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:47:45"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:23"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:23"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:23"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:23"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:23"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:23"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:24"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "23:48:24"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "23:48:26"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "23:48:28"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:48:29"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:48:31"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "23:48:33"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:48:35"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "23:48:36"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:48:38"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "23:48:40"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "23:48:42"
+        }
+    ],
+    [
+        {
+            "curDate": "18-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "23:48:43"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "0:0:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:44"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:45"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:47"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:48"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:49"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:51"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "0:0:52"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:0:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:1:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "0:1:21"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:1:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "0:1:24"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:1:26"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "0:1:28"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "0:1:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "0:3:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "4:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:44:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:52:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "8:58:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:6:49"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:6:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:6:52"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:6:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:32"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:32"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:33"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:35"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:35"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:39"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:40"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:42"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:42:43"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "9:42:43"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:54:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "9:55:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:9"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "9:58:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "9:58:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:2:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:3:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "10:4:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "10:24:45"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "10:24:46"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "10:24:47"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "10:40:46"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "10:40:47"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "10:40:49"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "10:40:51"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "10:49:24"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "10:49:26"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:4:25"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:4:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:4:28"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:4:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:4:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:20:35"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:20:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:20:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:20:40"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:28:2"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:28:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:34:15"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:34:16"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:38:21"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:38:23"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:39:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:39:19"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:39:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:39:28"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "11:48:51"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "11:48:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:7:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:7:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:7:9"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:7:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:7:13"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:7:17"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:8:44"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:8:47"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:15:2"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:15:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:15:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:15:12"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:17:52"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:17:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:18:0"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:18:2"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:18:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:18:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:18:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:18:15"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "12:18:25"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:18:42"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:20:1"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "12:20:3"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "13:0:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "13:0:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "13:0:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "13:0:28"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "13:2:33"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "13:2:48"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "13:3:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "13:30:47"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "13:31:26"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:3:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:7:49"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:7:58"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:23:19"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:23:21"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:28:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:28:32"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:28:33"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:28:40"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:28:46"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:28:48"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:35:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:35:43"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "14:46:40"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "14:46:45"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "15:11:54"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "15:11:55"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "15:39:20"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "15:39:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "16:4:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "16:4:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "16:4:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "16:4:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "16:4:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "16:4:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "16:7:48"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "17:37:25"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "17:39:1"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "17:39:17"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "17:39:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "17:51:35"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "17:51:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "17:55:14"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "17:55:16"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "18:51:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "18:51:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "18:51:32"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "18:51:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "18:51:35"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "18:51:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:11:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:11:52"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:11:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:13:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:13:13"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:13:16"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:13:26"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:13:28"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:13:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:13:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:14:1"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:14:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:14:16"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:14:19"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:14:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:14:45"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:14:51"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:15:2"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:15:9"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:15:19"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:15:46"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:15:58"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:16:2"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:16:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:16:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:16:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:16:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:16:42"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:16:43"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:16:51"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:16:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:18:33"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:19:14"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:20:16"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:22:24"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:20"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:23"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:39"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:44"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:47"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:49"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:24:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:56"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:24:57"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:25:1"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:25:2"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:25:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:25:17"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:25:23"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:25:33"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:25:42"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:28:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "19:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:19:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:19:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "19:33:9"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "19:33:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:9:42"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:9:45"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:9:46"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:10:19"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:10:31"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:10:40"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:10:51"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:10:55"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:10:57"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:11:9"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:11:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:11:53"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:12:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "20:50:36"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "20:50:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "21:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:15:30"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:16:50"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "22:17:0"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:41"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:17:48"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:17:55"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:17:58"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "22:18:0"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:18:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:18:27"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:18:29"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:19:34"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:19:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:19:38"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:19:39"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:19:40"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:17:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Automated",
+            "curTime": "22:30:52"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:47:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:12"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:13"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:15"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:16"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:17"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:47:18"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:48:37"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:50:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:50:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:50:14"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:50:17"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:50:20"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:50:22"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:50:24"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:58"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:51:59"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:52:4"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "1",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:52:5"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:52:6"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "4",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:52:7"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:52:9"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "6",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:52:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "5",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:52:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "7",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:52:13"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "8",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:52:14"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 1,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 2,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 3,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 4,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 5,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 6,
+            "set": "off",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 7,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": 8,
+            "set": "on",
+            "method": "Reset",
+            "curTime": "22:53:8"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:53:10"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "2",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:53:11"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "on",
+            "method": "Manual",
+            "curTime": "22:53:12"
+        }
+    ],
+    [
+        {
+            "curDate": "19-4-2021",
+            "relay": "3",
+            "set": "off",
+            "method": "Manual",
+            "curTime": "22:53:13"
+        }
+    ]
+]

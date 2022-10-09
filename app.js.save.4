@@ -1,0 +1,180 @@
+
+const express =require('express'); const app=express(); const 
+fs=require('fs'); const path=require('path'); const bodyParser = 
+require('body-parser'); const {spawn}= require('child_process'); const 
+schedule=require('node-schedule')
+
+app.use(bodyParser.urlencoded({extended: false}));
+app.use(express.static(path.join(__dirname, 'html')));
+
+app.get('/',(req,res,next)=>{
+    res.sendFile(path.join(__dirname,'./','html','HomePage.html'))
+console.log(path.join('sent'));
+});
+
+app.use(bodyParser.json());
+
+app.post('/relay',(req,res,next)=>{
+var method='Manual';
+var relay=req.body.Relay;
+var set=req.body.status;
+    if(check_Relay(relay,set)){
+signal();
+    relays(relay,set,method);
+    console.log(req.body);
+}
+    else console.log('Request Denied!');
+    res.end();
+});
+
+app.get('/get&&check=2sa69y23dgf',(req,res,next)=>{
+    res.send(getJsonData());
+    res.end();
+});
+app.get('/check&&check=2sa69y23dgf',(req,res,next)=>{
+spawn('python',['/home/pi/myServer/py/buzzer.py','-p=notify']);
+
+    res.end();
+});
+
+
+app.get('/temp&&check=2sa69y23dgf',(req,res,next)=>{
+var data=getTempreature();
+res.send("Hello:"+data);
+//res.send(data);
+    res.end();
+});
+
+
+app.post('/setname',(req,res,next)=>{
+    var relay=req.body.Relay;
+    var name=req.body.Name;
+    updateJsonData(name,relay);
+//    res.send(getJsonData());
+    res.end();
+});
+
+async function getTempreature(){
+await spawn('python',['/home/pi/myServer/py/cmds.py']);
+
+    var database=[];
+var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+var output=database[8];
+console.log(output);
+return output;
+}
+function log_Data(relay,status,method){
+    var database=[];
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var date=new Date();
+    var curDate=date.getDate()+'-'+(date.getMonth()+1)+'-'+date.getFullYear();
+    var curTime=date.getHours()+':'+date.getMinutes()+':'+date.getSeconds();
+    var i=0;
+    while(i<=7){
+        if(i==(Number(relay)-1)){
+            database[i].method=method;
+            database[i].relay=relay;
+            database[i].status=status;
+            database[i].time=curTime;
+            database[i].date=curDate;
+        }
+        i++;
+    }
+    fs.writeFileSync('/home/pi/myServer/log.json',JSON.stringify(database,null,4));
+}
+
+
+function relays(relay,status,method){
+    this.relay=relay;
+    this.status=status;
+    var arg1="-r="+relay;
+    var arg2="-s="+status;
+
+	log_Data(relay,status,method);
+
+    spawn('python',['/home/pi/myServer/py/Relay.py',arg1,arg2]);
+    
+}
+
+function check_Relay(relay,set){
+    var database={};
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var i=0;
+    while(i<=7){
+        if(i==(Number(relay)-1)){
+        if(set==database[i].status){
+            return false;
+        }
+        else return true;
+        
+        }
+        i++;
+    }
+}
+
+
+
+function reset_Relay(){
+var method='Reset';
+    var database={};
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var i=0;
+    while(i<8){
+        var relay=new relays(i+1,database[i].status,method);
+        i++;
+    }
+}
+
+function getJsonData(){
+    var database=[];
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    return database;
+}
+function updateJsonData(name,relay){
+    var database=[];
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var i=0;
+    while(i<=7){
+        if(i==(Number(relay)-1)){
+        //database[i].status=status;
+        //database[i].time=Date.now();
+        database[i].relay_name=name;
+        }
+        i++;
+    }
+fs.writeFileSync('/home/pi/myServer/log.json',JSON.stringify(database,null,4));
+}
+
+function signal(){
+    spawn('python',['/home/pi/myServer/py/Relay.py','-o=get']);
+}
+
+function _do(relay,set,time){
+    //var odd='20 8 */2 * *'
+    var method='Automated'
+//	console.log('ran');
+//	const rule = new schedule.RecurrenceRule();
+//    rule.second=10;
+    const task=schedule.scheduleJob(time,()=>{
+        relays(relay,set,method)
+	spawn('python',['/home/pi/myServer/py/buzzer.py','-p=warn']);
+    })
+    
+}
+
+
+_do('1','on','00 6 * * *')
+_do('1','off','59 23 * * *')
+_do('4','on','20 8 */2 * *')
+_do('4','off','20 9 */2 * *')
+//_do('5','on','5 * * * *')
+reset_Relay();
+
+
+app.listen(8080);

@@ -1,0 +1,69 @@
+[
+    {
+        "status": "on",
+        "relay": 1,
+        "relay_name": "A",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 2,
+        "relay_name": "Light",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 3,
+        "relay_name": "Fan",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 4,
+        "relay_name": "Relay=> 4",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 5,
+        "relay_name": "Relay=>5",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 6,
+        "relay_name": "Relay=> 6",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 7,
+        "relay_name": "Relay=> 7",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "status": "off",
+        "relay": 8,
+        "relay_name": "Relay=> 8",
+        "time": "10:17:8",
+        "date": "21-8-2021",
+        "method": "Reset"
+    },
+    {
+        "output": "temp=38.4'C\n"
+    }
+]

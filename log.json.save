@@ -1,0 +1,66 @@
+[
+    {
+        "relay": "1",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Manual",
+        "time": "22:55:34",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "2",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Reset",
+        "time": "22:55:28",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "3",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Reset",
+        "time": "22:55:28",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "4",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Manual",
+        "time": "22:55:37",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "5",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Manual",
+        "time": "22:55:43",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "6",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Manual",
+        "time": "22:55:39",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "7",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Manual",
+        "time": "22:55:52",
+        "date": "19-4-2021"
+    },
+    {
+        "relay": "8",
+        "status": "off",
+        "curDate": "18-4-2021",
+        "method": "Manual",
+        "time": "22:55:51",
+        "date": "19-4-2021"
+    }
+]

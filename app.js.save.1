@@ -1,0 +1,90 @@
+const express =require('/homexpress');
+const app=express();
+const timer = ms => new Promise( res => setTimeout(res, ms));
+var fs=require('fs');
+const path=require('path');
+const bodyParser = require('/home/pi/node_modules/body-parser');
+const {spawn}= require('child_process');
+
+app.use(bodyParser.urlencoded({extended: false}));
+app.use(express.static(path.join(__dirname, 'html')));
+
+app.get('/',(req,res,next)=>{
+    res.sendFile(path.join(__dirname,'./','html','HomePage.html'))
+console.log(path.join('sent'));
+});
+
+app.use(bodyParser.json());
+app.post('/relay',(req,res,next)=>{
+var relay=req.body.Relay;
+    var set=req.body.status;
+    if(check_Relay(relay,set)){
+    relays(relay,set);
+    log_Data(relay,set);
+    console.log(req.body);}
+    else console.log('Request Denied!');
+    res.end();
+});
+
+
+function log_Data(relay,status){
+    var database=[];
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var i=0;
+    while(i<=7){
+        if(i==(Number(relay)-1)){
+        database[i].status=status;
+        database[i].time=Date.now();
+        }
+        i++;
+    }
+    fs.writeFileSync('log.json',JSON.stringify(database,null,2));
+}
+
+function relays(relay,status){
+    this.relay=relay;
+    this.status=status;
+    var arg1="-r="+relay;
+    var arg2="-s="+status;
+    spawn('python',['/home/pi/myServer/py/Relay.py',arg1,arg2]);
+timer(5000).then();
+    console.log('python cmds executed\n'+relay+' is now '+status);
+    
+}
+
+function check_Relay(relay,set){
+    var database={};
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var i=0;
+    while(i<=7){
+        if(i==(Number(relay)-1)){
+        if(set==database[i].status){
+            return false;
+        }
+        else return true;
+        
+        }
+        i++;
+    }
+}
+
+function reset_Relay(){
+    var database={};
+    var jsonStr=fs.readFileSync('/home/pi/myServer/log.json');
+    database=JSON.parse(jsonStr);
+    var i=0;
+    while(i<8){
+        var relay=new relays(i+1,database[i].status)
+        i++;
+    }
+}
+
+
+
+
+reset_Relay();
+
+
+app.listen(8080);
