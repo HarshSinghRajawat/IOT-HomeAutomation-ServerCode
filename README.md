@@ -6,8 +6,6 @@ This project presents the overall design of Home Automation System (HAS) with lo
 ![IOT SMART HOME AUTOMATION SYSTEM](https://user-images.githubusercontent.com/79416650/194740093-b918d75a-bd32-47e8-9669-4cc9c11ad4ea.png)
 
 
-## Documentation 
-Check Out full Documentation :- [IOT SMART HOME AUTOMATION SYSTEM.pdf](https://github.com/HarshSinghRajawat/IOT-HomeAutomation-ServerCode/files/9740797/IOT.SMART.HOME.AUTOMATION.SYSTEM.pdf)
 
 https://user-images.githubusercontent.com/79416650/194739539-9375de68-2e6b-4e66-b077-a293d3c2c989.mp4
 ## Watch full Video : - https://youtu.be/FPMZkJAXqs8
