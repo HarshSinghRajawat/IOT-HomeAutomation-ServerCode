@@ -11,3 +11,12 @@ Check Out full Documentation :- [IOT SMART HOME AUTOMATION SYSTEM.pdf](https://g
 
 https://user-images.githubusercontent.com/79416650/194739539-9375de68-2e6b-4e66-b077-a293d3c2c989.mp4
 ## Watch full Video : - https://youtu.be/FPMZkJAXqs8
+
+# HOME SERVER APPLICATION
+## Screenshots
+
+
+<p>
+<img src="https://user-images.githubusercontent.com/79416650/194741529-b981ab55-c01d-4b09-b77a-e62afe051987.png" alt="feed example" width = "400" >
+<img src="https://user-images.githubusercontent.com/35039342/55468436-fa500080-5620-11e9-8475-28f291c4b1f6.png" alt="upload photo example"width = "400" >
+</p>
