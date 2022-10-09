@@ -16,7 +16,18 @@ https://user-images.githubusercontent.com/79416650/194739539-9375de68-2e6b-4e66-
 ## Screenshots
 
 
-<p>
-<img src="https://user-images.githubusercontent.com/79416650/194741529-b981ab55-c01d-4b09-b77a-e62afe051987.png" alt="feed example" width = "400" >
-<img src="https://user-images.githubusercontent.com/35039342/55468436-fa500080-5620-11e9-8475-28f291c4b1f6.png" alt="upload photo example"width = "400" >
+<p align="center">
+<img src="screen_1.png" alt="feed example" width = "400" >
+<img src="screen_2.png" alt="upload photo example"width = "400" >
 </p>
+
+
+### Connect with Us
+<p align="left">
+<a href = "https://www.linkedin.com/in/harsh-singh-rajawat-b3ab4911b/?originalSubdomain=in"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>Harsh Singh Rajawat</a>
+</p>
+
+<p align="left">
+<a href = "https://www.linkedin.com/in/sahil-vishwakarma-4705801b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>Sahil</a>
+</p>
+
